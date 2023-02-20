@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muthulakshmi-r" alt="muthulakshmi-r" /></a> </p>
 
+- 🌱 I’m currently learning **React JS, Python**
+
 - 👨‍💻 All of my projects are available at [https://github.com/Muthulakshmi-R](https://github.com/Muthulakshmi-R)
 
 <h3 align="left">Connect with me:</h3>
