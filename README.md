@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muthulakshmi-r&label=Profile%20views&color=0e75b6&style=flat" alt="muthulakshmi-r" /> </p>
 
 - 🌱 I’m currently enhancing expertise in **Snowflake, advanced SQL development** and **Python**
-Currently enhancing expertise in Snowflake and advanced SQL development.
+
 - 👨‍💻 All of my projects are available at [https://github.com/Muthulakshmi-R](https://github.com/Muthulakshmi-R)
 
 <p align="left">
