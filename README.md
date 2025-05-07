@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muthulakshmi R</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muthulakshmi-r&label=Profile%20views&color=0e75b6&style=flat" alt="muthulakshmi-r" /> </p>
 
-- 🌱 I’m currently learning **I’m currently enhancing expertise in Snowflake, advanced SQL development and Python**
+- 🌱 I’m currently enhancing expertise in **Snowflake, advanced SQL development and Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muthulakshmi-R](https://github.com/Muthulakshmi-R)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/muthulakshmi-r-03a81b241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muthulakshmi-r-03a81b241/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
